@@ -10,8 +10,8 @@
 3. [Objectives](#objectives)
 4. [Design Specifications](#design-specifications)  
 5. [Engineering Calculations](#engineering-calculations)  
-6. [3. Gear Design](#3.-gear-design)  
-7. [6. Shaft Design](#6.-shaft-design)  
+6. [Gear Design](#gear-design)  
+7. [Shaft Design](#shaft-design)  
 8. [Bearing Selection](#bearing-selection)  
 9. [Materials Used](#materials-used)
 10. [Software Used](#software-used)
@@ -98,7 +98,7 @@ T_{out} = 4.95 \times 24 = 118.8 \ Nm
 ```
 
 
-## 3. Gear Design
+## Gear Design
 
 ### Selected Module
 - Module (m) = 2.5 mm
@@ -118,7 +118,7 @@ T_{out} = 4.95 \times 24 = 118.8 \ Nm
 | Gear | 108 |
 
 
-## 4. Pitch Circle Diameter
+## 3. Pitch Circle Diameter
 
 Formula:
 
@@ -134,7 +134,7 @@ d = mZ
 | Gear 4 | 270 mm |
 
 
-## 5. Center Distance
+## 4. Center Distance
 
 Formula:
 
@@ -148,7 +148,7 @@ a = \frac{d_1 + d_2}{2}
 | Stage 2 | 157.5 mm |
 
 
-## 6. Shaft Design
+## Shaft Design
 
 Using torsion equation:
 
