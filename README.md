@@ -1,4 +1,4 @@
-# 2 Stage Gearbox Design - README
+# 2-Stage Spur Gearbox Design and CAD Assembly
 <br>
 <img width="1916" height="1041" alt="Gear Box Design Assembly" src="https://github.com/user-attachments/assets/d3fc55b7-6c1d-4c76-a9ce-7dcbd82fa48b" />
 <br>
