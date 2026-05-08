@@ -26,28 +26,25 @@
 
 The 2-Stage Gearbox Design project focuses on the complete design and development of a mechanical gearbox using standard engineering calculations and 3D CAD modeling in SolidWorks.
 
-The project includes gear ratio calculation, torque transmission analysis, shaft design, bearing selection, and complete assembly modeling. The gearbox was designed to achieve the required speed reduction and efficient power transmission using spur gears.
-
-This project demonstrates practical skills in machine design, mechanical calculations, CAD modeling, and industrial gearbox development.
-
-
 ## Project Overview
 
 This project focuses on the design and development of a **2-Stage Spur Gearbox** using standard mechanical engineering calculations and 3D CAD modeling in SOLIDWORKS.
 
-The gearbox was designed to achieve the required speed reduction and torque transmission by performing detailed engineering calculations including gear ratio, torque, shaft diameter, gear dimensions, center distance, and bearing selection.
-
-The project follows a complete engineering workflow from theoretical calculations to final CAD assembly design.
-<br>
+The gearbox assembly was developed using standard design procedures and engineering calculations including:
+- Speed reduction analysis
+- Torque calculations
+- Gear design
+- Shaft design
+- Bearing selection
+- Assembly modeling
 
 ## Objectives
 
-- Design a 2-stage gearbox for power transmission
-- Perform accurate mechanical design calculations
-- Reduce motor speed using spur gears
-- Design shafts based on transmitted torque
-- Create complete 3D CAD models and assembly
-- Apply standard engineering design procedures
+- Design a 2-stage gearbox for mechanical power transmission
+- Perform accurate engineering calculations
+- Develop complete 3D CAD models and assembly
+- Apply standard mechanical design procedures
+- Understand industrial gearbox design methodology
 
 ## Design Specifications
 
@@ -60,6 +57,7 @@ The project follows a complete engineering workflow from theoretical calculation
 | Number of Stages | 2 |
 | Pressure Angle | 20° |
 | Gear Material | EN8 Steel |
+
 ## Engineering Calculations
 
 ## 1. Gear Ratio Calculation
@@ -194,10 +192,17 @@ The complete gearbox assembly was modeled in SOLIDWORKS including:
 - Side covers
 - Assembly mates and constraints
 
+The CAD workflow included:
+1. Part Modeling  
+2. Assembly Creation  
+3. Component Mating  
+4. Alignment and Constraints  
+5. Exploded Views  
+6. Technical Drawings
+
 ## Results
 
 - Successfully designed a functional 2-stage gearbox
-- Achieved required speed reduction ratio
 - Completed accurate engineering calculations
 - Developed complete 3D CAD assembly
 - Implemented industrial gearbox design methodology
@@ -227,4 +232,11 @@ Mechanical Engineering Student | CAD Designer | Robotics Enthusiast
 
 ## Final Note
 
-The 2-Stage Gearbox Design project provides practical experience in machine design, mechanical calculations, and CAD modeling. It demonstrates the complete engineering workflow from theoretical design calculations to final 3D assembly development using industrial design standards.
+The **2 Stage Gearbox Design** project provides practical experience in:
+- Machine Design
+- Mechanical Engineering Calculations
+- Gear Design
+- Shaft Design
+- CAD Modeling and Assembly
+
+This project demonstrates the complete engineering workflow from theoretical calculations to final 3D assembly development using standard industrial design practices.
