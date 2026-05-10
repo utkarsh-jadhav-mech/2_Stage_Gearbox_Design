@@ -225,6 +225,7 @@ The CAD workflow included:
 ## Author
 
 Utkarsh Jadhav
+
 Mechanical Engineering Student | CAD Designer | Robotics Enthusiast  
 
 - GitHub: https://github.com/utkarsh-jadhav-mech
